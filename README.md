@@ -6,5 +6,7 @@ This bot checks EUR/AMD rates from rate.am and sends a Telegram alert if the rat
 
 1. Install dependencies:
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
+
+python3 euro_bot.py
 
