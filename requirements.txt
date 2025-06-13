@@ -1,5 +1,48 @@
+altgraph @ file:///AppleInternal/Library/BuildRoots/2c89a47b-9dd5-11ef-938f-6e654a286000/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
+APScheduler==3.6.3
+cachetools==4.2.2
+certifi==2024.12.14
+cffi==1.17.1
+charset-normalizer==3.4.1
+click==8.1.8
+cryptography==44.0.1
+dill==0.3.6
+dnslib==0.9.25
+dnspython==2.7.0
+ecdsa==0.19.0
+future @ file:///AppleInternal/Library/BuildRoots/2c89a47b-9dd5-11ef-938f-6e654a286000/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
+idna==3.10
+localstack==3.2.0
+localstack-core==3.2.0
+localstack-ext==3.2.0
+macholib @ file:///AppleInternal/Library/BuildRoots/2c89a47b-9dd5-11ef-938f-6e654a286000/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
+markdown-it-py==3.0.0
+mdurl==0.1.2
+packaging==24.2
+pbr==6.1.1
+plux==1.12.1
+psutil==7.0.0
+pyaes==1.6.1
+pyasn1==0.4.8
+pycparser==2.22
+pycryptodomex==3.21.0
+Pygments==2.19.1
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+python-jose==3.4.0
 python-telegram-bot==13.15
-apscheduler
-pytz
-requests
-python-dotenv
+pytz==2025.2
+PyYAML==6.0.2
+pyzipper==0.3.6
+requests==2.32.3
+rich==13.9.4
+rsa==4.9
+semver==3.0.4
+six @ file:///AppleInternal/Library/BuildRoots/2c89a47b-9dd5-11ef-938f-6e654a286000/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+stevedore==5.4.0
+tabulate==0.9.0
+tailer==0.4.1
+tornado==6.1
+typing_extensions==4.12.2
+tzlocal==5.3.1
+urllib3==2.3.0
